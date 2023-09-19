@@ -5,6 +5,7 @@
   transform: translate(-50%, -50%);
 
   width: 288px;
+  min-height: 466px;
   padding: 15px;
   text-align: center;
   border-radius: 20px;
